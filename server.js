@@ -8,3 +8,5 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port);
+
+//deploy URL= https://json-server-jswc.onrender.com 
